@@ -1,2 +1,9 @@
-# mini-markdown-notes-util
-A simple markdown notes project
+# Markdown Notes
+
+A simple markdown notes project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
